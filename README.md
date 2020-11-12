@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amir Aizin</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h1 align="center">Welcome👋, I'm Amir Aizin</h1>
+<h3 align="center">A passionate B.sc software developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-aizin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amir-aizin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/amirai92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="amirai92" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
