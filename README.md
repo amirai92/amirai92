@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 👋, I'm Amir Aizin</h1>
-<h3 align="center">A passionate frontend developer from Israel</h3>
+<h3 align="center">A passionate B.sc Software Engineer developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
 
 - 🔭 I’m currently working on [Repo for React course at SQLabs.](https://github.com/amirai92/ReactProjects)
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React Redux by SQLink\SQLabs **
 
 - 📫 How to reach me **amiraizin20@gmail.com**
 
