@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **amiraizin20@gmail.com**
 
-- ⚡ Fun fact **When you were born, you were, for a moment, the youngest person on earth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
