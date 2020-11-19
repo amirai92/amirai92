@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
 
-- 🔭 I’m currently working on [Implement React Hooks& Redux](https://github.com/amirai92/ReactProjects)
+- 🔭 I’m currently working on [React Hooks& Redux](https://github.com/amirai92/ReactProjects)
 
 - 🌱 I’m currently learning **React Redux by SQLink\SQLabs**
 
