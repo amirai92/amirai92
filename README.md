@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [React Hooks& Redux](https://github.com/amirai92/ReactProjects)
 
-- 🌱 I’m currently learning **React Redux by SQLink\SQLabs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **amiraizin20@gmail.com**
 
