@@ -1,9 +1,8 @@
 <h1 align="center">Welcome👋, I'm Amir Aizin</h1>
 <h3 align="center">A passionate B.sc software developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
 
-- 🔭 I’m currently working on [React Hooks& Redux](https://github.com/amirai92/ReactProjects)
+- 🔭 I’m currently working on [React Hooks& Redux](https://github.com/amirai92/yourplaces)
 
 - 🌱 I’m currently learning **MERN Stack**
 
