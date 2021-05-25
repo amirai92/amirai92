@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
 
-- 🔭 I’m currently working on [YourPlaces](https://github.com/amirai92/yourplaces)
+- 🔭 I’m currently working on [eCommerce](https://github.com/amirai92/eCommerce)
 
 - 🌱 I’m currently learning **MERN Stack**
 
