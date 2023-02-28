@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **amiraizin20@gmail.com**
 
-- 📄 You can check my resume [Amir-Aizin-CV](https://docdro.id/VymQXO9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
