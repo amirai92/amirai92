@@ -1,13 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Amir Aizin</h1>
-<h3 align="center">A passionate B.Sc software developer from Israel</h3>
+<h3 align="center">A passionate B.Sc software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirai92&label=Profile%20views&color=0e75b6&style=flat" alt="amirai92" /> </p>
-
-- 🔭 I’m currently working on [BoardRider](https://github.com/amirai92/BoardRider)
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [https://amiraizinportfolio.netlify.app/](https://amiraizinportfolio.netlify.app/)
 
 - 📫 How to reach me **amiraizin20@gmail.com**
 
